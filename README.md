@@ -2,7 +2,7 @@
 Minimalistic and clean vlog onepage design. Images, audios and links can be customized. Heavy HTML.
 <br>
 <br>
-Live App: https://climateux-js-app.vercel.app/
+Live App: https://bloglp-css-web-page.vercel.app/
 <br>
 <br>
 
