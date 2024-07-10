@@ -169,7 +169,7 @@ body {
   max-height: 22vh;
   width: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   filter: grayscale(1);
 }
 
@@ -259,7 +259,7 @@ body {
   display: flex;
   flex-direction: column;
   -ms-scroll-snap-type: y mandatory;
-      scroll-snap-type: y mandatory;
+  scroll-snap-type: y mandatory;
   border-right: 1px solid #94918f;
 }
 @media screen and (max-width: 768px) {
