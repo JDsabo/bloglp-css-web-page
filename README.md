@@ -1,5 +1,5 @@
 <h1>Minimal Vlog created by Sabo</h1>
-Minimalistic and clean vlog onepage design. Images, audios and links can be customized. Heavy HTML
+Minimalistic and clean vlog onepage design. Images, audios and links can be customized. Heavy HTML.
 <br>
 <br>
 Live App: https://bloglp-css-web-page.vercel.app/
