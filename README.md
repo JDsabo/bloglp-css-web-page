@@ -6,4 +6,4 @@ Live App: https://bloglp-css-web-page.vercel.app/
 <br>
 <br>
 
-![Screenshot 2024-07-04 023153](https://github.com/JDsabo/vloglp-html-web/assets/82731778/e72b227d-0925-4537-af5a-958a6becce88)
+![Screenshot 2024-07-11 135643](https://github.com/user-attachments/assets/24635809-91c0-4a48-b51b-448937630eef)
